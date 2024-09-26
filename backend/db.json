@@ -4,19 +4,85 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Nay",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Estudando Angular",
       "autoria": "Daniel",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Angular é o melhor",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 10,
+      "conteudo": "nada de mais hoje...",
+      "autoria": "will",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 11,
+      "conteudo": "A vida é feita de pequenos momentos.",
+      "autoria": "Nay",
+      "modelo": "modelo1",
+      "favorito": true
+    },
+    {
+      "id": 12,
+      "conteudo": "Sorria, alguém pode estar precisando disso.",
+      "autoria": "Daniel",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": 13,
+      "conteudo": "Cada dia é uma nova chance de recomeçar.",
+      "autoria": "Ana",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "id": 14,
+      "conteudo": "A gratidão transforma o que temos em suficiente.",
+      "autoria": "Matheus",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 15,
+      "conteudo": "Permita-se ser feliz com as pequenas conquistas.",
+      "autoria": "Naruto",
+      "modelo": "modelo2",
+      "favorito": false
+    },
+    {
+      "id": 16,
+      "conteudo": "A paz interior vale mais do que qualquer vitória.",
+      "autoria": "Will",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 17,
+      "conteudo": "Tudo que precisamos já está dentro de nós.",
+      "autoria": "Lucas",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "vamos fazer um teste",
+      "autoria": "dan",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 18
     }
   ]
 }
